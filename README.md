@@ -62,3 +62,9 @@ The **AI Trip Planner** uses **Google Gemini (Vertex AI)** to:
 (<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/d98827ea-d06c-4985-85e3-22378e24f490" />
 ,<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/5ecc4b19-ae0b-41b1-bcbd-aaf6cd2b8772" />
 )
+
+---
+
+## 🎬 Demo Video
+
+Watch our AI Trip Planner MVP in action: [Demo Video](https://www.loom.com/share/6bc76b19ef384bbd830705ba77509579?sid=b9fd263d-d7f9-4d82-82d8-c96029444316)
