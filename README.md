@@ -48,3 +48,12 @@ The **AI Trip Planner** uses **Google Gemini (Vertex AI)** to:
    ```bash
    git clone https://github.com/rathoreyuvrajsingh1860-commits/ai-trip-planner.git
    cd ai-trip-planner
+
+   ## 🎥 Demo
+- **Live App URL:** https://ai-trip-planner-124225790351.us-central1.run.app
+- **GitHub Repo:** https://github.com/rathoreyuvrajsingh1860-commits/ai-trip-planner
+
+##[App Screenshot]
+(<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/d98827ea-d06c-4985-85e3-22378e24f490" />
+,<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/5ecc4b19-ae0b-41b1-bcbd-aaf6cd2b8772" />
+)
